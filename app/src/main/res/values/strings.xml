@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Canvas</string>
+    <string name="clear">clear canvas</string>
+    <string name="save">SAVE CANVAS</string>
+</resources>
